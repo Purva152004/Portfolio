@@ -1,0 +1,5 @@
+/* Keep this file minimal when using Tailwind CDN */
+
+body {
+  margin: 0;
+}
