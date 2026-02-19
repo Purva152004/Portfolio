@@ -45,7 +45,7 @@ export default function Projects() {
       name: "Real-Time Polling System",
       desc:
         "Live polling web application with real-time vote updates, multi-select support, and anti-abuse mechanisms using Socket.IO.",
-      img: "/Screenshot 2026-02-19 174610",
+      img: "/polling.png",
       link: "https://github.com/Purva152004/realtime-polling-app.git",
     },
     {
