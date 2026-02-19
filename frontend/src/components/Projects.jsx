@@ -38,14 +38,14 @@ export default function Projects() {
       name: "ChatAI",
       desc:
         "AI-powered chat application with real-time responses, modern UI, and API-based intelligence integration.",
-      img: "/chatai.png",
+      img: "/chatai.jpeg",
       link: "https://github.com/Purva152004/ChatAI.git",
     },
     {
       name: "Real-Time Polling System",
       desc:
         "Live polling web application with real-time vote updates, multi-select support, and anti-abuse mechanisms using Socket.IO.",
-      img: "/polling.png",
+      img: "/Screenshot 2026-02-19 174610",
       link: "https://github.com/Purva152004/realtime-polling-app.git",
     },
     {
@@ -55,13 +55,7 @@ export default function Projects() {
       img: "/fueleu.png",
       link: "https://github.com/Purva152004/FuelEU-Maritime-Project.git",
     },
-    {
-      name: "FuelEU Marine Platform",
-      desc:
-        "A sustainability-focused platform to monitor FuelEU Maritime compliance, emissions data, and marine fuel regulations.",
-      img: "/fueleu.png",
-      link: "https://github.com/Purva152004/FuelEU-Maritime-Project.git",
-    },
+  
     {
       name: "Persona Prospect Finder",
       desc:
