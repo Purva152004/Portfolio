@@ -13,15 +13,61 @@ export default function Projects() {
     },
     {
       name: "Student Management System",
-      desc: "A full-stack web application to manage student records, courses, and academic data with secure authentication and efficient CRUD operations.",
+      desc:
+        "A full-stack web application to manage student records, courses, and academic data with secure authentication and efficient CRUD operations.",
       img: "/student.jpg",
       link: "https://github.com/Purva152004/ccProject.git",
     },
     {
       name: "WanderLust",
-      desc: "Travel platform with auth, search & Cloudinary.",
+      desc: "Travel platform with authentication, search, and Cloudinary image uploads.",
       img: "/wanderlust.png",
       link: "https://github.com/Purva152004/wanderlust_Mproject",
+    },
+
+    /* 🔹 NEW PROJECTS */
+
+    {
+      name: "WeatherFarm",
+      desc:
+        "Weather forecasting platform for farmers providing real-time weather data, alerts, and crop-friendly insights.",
+      img: "/weatherfarm.png",
+      link: "https://github.com/Purva152004/MernWeatherAdvisory.git", 
+    },
+    {
+      name: "ChatAI",
+      desc:
+        "AI-powered chat application with real-time responses, modern UI, and API-based intelligence integration.",
+      img: "/chatai.png",
+      link: "https://github.com/Purva152004/ChatAI.git",
+    },
+    {
+      name: "Real-Time Polling System",
+      desc:
+        "Live polling web application with real-time vote updates, multi-select support, and anti-abuse mechanisms using Socket.IO.",
+      img: "/polling.png",
+      link: "https://github.com/Purva152004/realtime-polling-app.git",
+    },
+    {
+      name: "FuelEU Marine Platform",
+      desc:
+        "A sustainability-focused platform to monitor FuelEU Maritime compliance, emissions data, and marine fuel regulations.",
+      img: "/fueleu.png",
+      link: "https://github.com/Purva152004/FuelEU-Maritime-Project.git",
+    },
+    {
+      name: "FuelEU Marine Platform",
+      desc:
+        "A sustainability-focused platform to monitor FuelEU Maritime compliance, emissions data, and marine fuel regulations.",
+      img: "/fueleu.png",
+      link: "https://github.com/Purva152004/FuelEU-Maritime-Project.git",
+    },
+    {
+      name: "Persona Prospect Finder",
+      desc:
+        "it finds the data in apollo seed and stores in the Excel Sheet",
+      img: "/fueleu.png",
+      link: "https://github.com/Purva152004/persona-prospect-finder.git",
     },
   ];
 
